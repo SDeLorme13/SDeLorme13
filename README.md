@@ -2,8 +2,6 @@
 
 Welcome to my little corner of GitHub! I'm a recent Data Science graduate from **UNC Charlotte** (Go Niners! Class of May '25 🎓) based in the Charlotte, NC area. I'm passionate about untangling complex problems, whether that involves diving into data, building cool tech solutions, or figuring out the logistics behind a major event.
 
----
-
 ### A Bit About My Journey 🚀
 
 For the past decade or so, I've been on a bit of an entrepreneurial ride. I co-founded and helped run a couple of unique businesses:
@@ -11,10 +9,6 @@ For the past decade or so, I've been on a bit of an entrepreneurial ride. I co-f
 * **Stellar Appearances:** Managing bookings and providing white-glove, hands-on service for celebrity appearances at conventions and events. It's been a wild world of logistics, client relations, and making sure everything runs smoothly under pressure!
 * **HorrorAutographs.com:** This was my dive into e-commerce, building an online retail space for horror movie and TV memorabilia from the ground up. Lots of learning about online platforms, inventory, and reaching a niche audience.
 * I also had a stint with **The Wealth Solutions Group**, where I got to help a financial services firm build out its initial digital presence and streamline some of its financial calculations with some nifty Excel work.
-
-More recently, I decided to formalize my love for analysis and tech by diving deep into Data Science at UNCC. It's been an amazing experience connecting my practical business insights with the power of data.
-
----
 
 ### Current Explorations & What I'm Tinkering With 🛠️
 
@@ -25,8 +19,6 @@ Right now, I'm pretty immersed in a personal project I'm calling the **Multi‑P
 
 It's been a fantastic learning experience in Linux, encryption, scripting, and just seeing how much utility you can pack into a portable setup.
 
----
-
 ### Tech & Tools I Enjoy Working With 💻
 
 * **Languages & Scripting:** Python (especially with Pandas, NumPy, Matplotlib, Scikit-learn), SQL(learning), SAS and a bit of R.
@@ -34,8 +26,6 @@ It's been a fantastic learning experience in Linux, encryption, scripting, and j
 * **OS & Environments:** Linux (Ubuntu, Mint, Kali & Cinnamon), Windows 8.1 - Windows 10.
 * **Security & Utilities:** Encryption tools (LUKS2, VeraCrypt), Virtualization (VirtualBox), Git/GitHub, Ventoy.
 * **Business Tools:** MS Office 365, Google Workspace.
-
----
 
 ### Beyond the Keyboard 🎧🚗🏌️‍♂️
 
